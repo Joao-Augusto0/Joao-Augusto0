@@ -14,6 +14,6 @@
                                                                                                                                            
 </div>    
     
-## A linha do tempo já estava quebrada quando eu achei... eu juro
+## Não subestime a humanidade!
     
 ![MuaKissGIF](https://user-images.githubusercontent.com/98486135/151452454-58fd152e-5fab-4608-9fa3-bd9649fa107b.gif)
