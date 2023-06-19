@@ -1,6 +1,7 @@
 ## Seja Bem Vindo sou o João Augusto 
 
-- 💕 Atualmente estudando no senai curso técnico desenvolvimento de sistemas
+- 💕 técnico em desenvolvimento de sistemas (Senai)
+- Curso Superior em “Análise e Desenvolvimento de Sistemas” pela Faculdade vincit  (em andamento)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Augusto0&show_icons=true&theme=radical)
